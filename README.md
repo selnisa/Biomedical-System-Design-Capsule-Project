@@ -9,3 +9,4 @@ Proposed steps for the project are:
 - Week 3: Applying classical ML models and deep learning models to unsegmented and nucleus/cytoplasm segmented cervical cell images. ([Progress Report 2](https://github.com/selnisa/Biomedical-System-Design-Capsule-Project/blob/main/3005_Progress2Report.pdf))
 - Week 4: Final report presenting results and model performances. ([Final Report](https://github.com/selnisa/Biomedical-System-Design-Capsule-Project/blob/main/3005_Final_Report%20(4).pdf))
 
+Note: In the first two steps, the project purpose is different than the latter two steps. Later, we thought a much broader model comparison would be beneficial to all group members
