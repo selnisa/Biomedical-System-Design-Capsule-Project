@@ -2,7 +2,6 @@
 
 The project pipeline:
 ![Pipeline](https://github.com/selnisa/Biomedical-System-Design-Capsule-Project/blob/main/outline.png)
-[Pipeline]: https://github.com/selnisa/Biomedical-System-Design-Capsule-Project/blob/main/outline.png
 
 Proposed steps for the project are:
 - Week 1: Project proposal ([Proposal Report - Current Version](https://github.com/selnisa/Biomedical-System-Design-Capsule-Project/blob/main/3005_Proposal%20(2).pdf))
